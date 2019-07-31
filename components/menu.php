@@ -24,7 +24,7 @@
 				</div>
 			</li>
 			<li class="nav-item">
-				<a class="nav-link" href="/ndis.php">Andis</a>
+				<a class="nav-link" href="ndis.php">Andis</a>
 			</li>
 			<li class="nav-item">
 				<a class="nav-link" href="baby_skin.php">Baby Skin</a>
